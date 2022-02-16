@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+body{
+    background-image: url(./image/Vector.png)
+}
+
+input[type="date"]{
+    width: 148px;
+    height: 24px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 14px 12px ;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 20px;
+    
+}
